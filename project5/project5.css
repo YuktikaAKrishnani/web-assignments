@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+    vertical-align: baseline;
+}
+nav{
+    display: inline-flex;
+   
+}
+h1 nav{
+    display: inline-flex;
+}
+.h2 .navv {
+    justify-content: right;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(0, 238, 255);
+    
+}
+.nav{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(0, 238, 255));
+    
+}
+.navv a{
+    margin-left: 10px;
+}
+.nav a{
+    margin-left: 10px;
+    
+}
+.artist{
+    border: 2px solid black;
+    margin-left: 21%;
+    width: 57%;
+}
+
+.h{
+    margin-top: -1px;
+    color: rgb(255, 255, 255);
+    height: 33px;
+    width: 100.3%;
+    font-size: 20px;
+    align-items: right;
+    background-color: rgb(0, 18, 218);
+}
+.info{
+    margin-left: 5px;
+}
+.button{
+    margin-top: 6px;
+    color: rgb(255, 255, 255);
+    height: 39px;
+    width: 100.3%;
+    font-size: 20px;
+    align-items: right;
+    background-color:rgb(0, 18, 218);
+}
+a[href^="mail"]{
+    background: url(email.jpg) no-repeat 0 3px;
+    padding-left: 1em;
+}
+a[href^="tel"]{
+    background: url(ghanta.jpg) no-repeat 0 3px;
+    padding-left: 1em;
+}
+button{
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.graph{
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 20%;
+}
+.button1 footer{
+    margin-left: 3px;
+    font-size: 15px;
+}
+.button1{
+    margin-top: 5px;
+    color: rgb(255, 255, 255);
+    height: 52px;
+    width: 57.5%;
+    margin-left: 20.9%;
+    font-size: 25px;
+    align-items: right;
+    background-color: rgb(0, 18, 218);
+}
+.button1 footer a{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    margin-top: 2px;
+}
+nav{
+    width: 1450px;
+    color: rgb(0, 18, 218);
+    height: 20px;
+    font-size: 20px;
+    align-items: right;
+    background-color: rgb(255, 255, 255);
+}
+.img1{
+    margin-left: 42%;
+    margin-top: 1%;
+    border: 3px solid black;
+}
+
+ul{
+    text-align: end;
+}
+ul a{
+    height: 7px;
+    color: rgb(0, 18, 218);
+    text-align: end;
+}
+h1{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(0, 18, 218);
+    color: white;
+}
+.c{
+    margin-top: -3px ;
+}
